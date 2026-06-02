@@ -1,4 +1,5 @@
-# Ex.No.10
+# Exp 10:Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Name :ROSHINI S
